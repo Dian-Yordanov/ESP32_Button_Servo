@@ -4,4 +4,6 @@ This project is a simplified version of [Dian-Yordanov's ArduinoServoHC05AndPote
 
 The sketch for the project is on https://wokwi.com/projects/418571808970566657
 
+![alt text](https://raw.githubusercontent.com/Dian-Yordanov/ESP32_Button_Servo/refs/heads/main/pics/wowkiSketch.PNG?raw=true)
+
 ![alt text](https://raw.githubusercontent.com/Dian-Yordanov/ESP32_Button_Servo/refs/heads/main/pics/1024-1301.jpg?raw=true)

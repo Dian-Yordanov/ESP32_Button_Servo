@@ -15,3 +15,13 @@ Project IRL:
 List of items used:
 
 https://vi.aliexpress.com/item/1005006900641832.html?spm=a2g0o.order_list.order_list_main.11.25c71802InZ1QN&gatewayAdapt=glo2vnm
+
+https://vi.aliexpress.com/item/1005007027008682.html?spm=a2g0o.order_list.order_list_main.137.4c381802ClygXU&gatewayAdapt=glo2vnm
+
+https://vi.aliexpress.com/item/1005005164610640.html?spm=a2g0o.order_list.order_list_main.147.4c381802ClygXU&gatewayAdapt=glo2vnm
+
+https://vi.aliexpress.com/item/1005005351082912.html?spm=a2g0o.order_list.order_list_main.152.4c381802ClygXU&gatewayAdapt=glo2vnm
+
+https://vi.aliexpress.com/item/1005006378959096.html?spm=a2g0o.order_list.order_list_main.157.4c381802ClygXU&gatewayAdapt=glo2vnm
+
+https://vi.aliexpress.com/item/1005006951745080.html?spm=a2g0o.order_list.order_list_main.173.4c381802ClygXU&gatewayAdapt=glo2vnm

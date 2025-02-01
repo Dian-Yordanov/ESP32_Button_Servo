@@ -11,3 +11,7 @@ The sketch for the project is on https://wokwi.com/projects/418571808970566657 :
 Project IRL:
 
 ![alt text](https://raw.githubusercontent.com/Dian-Yordanov/ESP32_Button_Servo/refs/heads/main/pics/1024-1301.jpg?raw=true)
+
+List of items used:
+
+https://vi.aliexpress.com/item/1005006900641832.html?spm=a2g0o.order_list.order_list_main.11.25c71802InZ1QN&gatewayAdapt=glo2vnm

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "author": "Dian Yordanov",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 9.6, "left": 148.84, "attrs": {} },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": 287.9,
+      "left": -25.3,
+      "rotate": 90,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-servo",
+      "id": "servo1",
+      "top": -109.4,
+      "left": -143,
+      "rotate": 270,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "esp:5V", "servo1:V+", "red", [ "h0" ] ],
+    [ "servo1:GND", "esp:GND.1", "#8f4814", [ "v50.8", "h48.8", "v76.8" ] ],
+    [ "esp:26", "servo1:PWM", "orange", [ "h0" ] ],
+    [ "esp:33", "btn1:2.l", "black", [ "h0" ] ],
+    [ "btn1:1.l", "esp:GND.1", "#8f4814", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
